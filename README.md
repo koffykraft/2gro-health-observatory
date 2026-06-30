@@ -1,2 +1,1 @@
-# 2gro-health-observatory
-A platform for tracking, understanding, and interpreting lifestyle interventions using biomarkers, AI, and longitudinal health observations.
+2GRO Health Observatory is an open platform that helps individuals measure and understand the effects of lifestyle interventions through structured observations, biomarkers, laboratory data, and AI-assisted interpretation. Rather than promoting a single protocol, it provides tools to document, compare, and learn from interventions such as nutrition, exercise, sleep, botanical beverages, and other lifestyle practices using an evidence-informed approach.
